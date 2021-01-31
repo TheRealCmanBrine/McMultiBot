@@ -1,0 +1,7 @@
+{
+"token":"Create A Bot at https://discord.com/developers/applications, And Paste Its Token Here.",
+"invlink":"Paste Your Bot's Client-ID into https://discordapi.com/permissions.html, And Copy-Paste The Link It Gives You Here.",
+"channel":"This Is Not Use In The Code, But May Be Useful In The Future.",
+"admin":"This Is Not Use In The Code, But May Be Useful In The Future.",
+"prefix":"!"
+}
